@@ -1,0 +1,74 @@
+
+/**********************************************************************************
+  Project Name: Bootstrap based E-Commerce Footer Design.
+  Project Description: Responsive footer design based on bootstrap 3+
+  File Name: styles.css
+  Author: Md Abdul Momin
+  Author URI: http://www.opensourcit.net
+  Version: 1.0.0
+  
+**********************************************************************************/
+.footer-top-area1{
+  background: #787878;
+  color: #fcfcfc;
+  margin: 100px auto 0;
+  padding-bottom: 30px;
+}
+.footer-bottom-area1{
+ background: #787878;
+}
+
+.footer-bottom-area1 a{
+  color: #fcfcfc;
+}
+
+
+.footer-top-area2{
+  background: #fcfcfc;
+  color: #787878;
+  margin: 100px auto 0;
+  padding-bottom: 30px;
+}
+.footer-bottom-area2{
+ background: #fcfcfc;
+
+ margin-bottom: 100px;
+}
+
+.footer-bottom-area2 a{
+  color: #787878;
+}
+
+/*****************************************************************/
+/* for top button and footer social link  */
+/*****************************************************************/
+
+.my_button{
+  margin: 50px auto 0px;
+}
+.my_social_link a{
+  font-size: 20px;
+  color:#232323;
+}
+
+
+
+#subscription-form label{
+    display: block;
+  
+}
+#subscription-form input[type="text"],input[type="search"]{
+  border: 1px solid #242424;
+  margin-bottom: 8px;
+  padding: 5px;
+  border-radius: 2px;
+  outline:medium none;
+}
+#subscription-form input[type="text"]:hover,
+#subscription-form input[type="text"]:focus{
+  background-color: #dddddd;
+  border:1px solid green;
+  border-radius: 2px;
+  outline:none;
+}
+
